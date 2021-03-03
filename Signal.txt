@@ -9,3 +9,7 @@ This is Signal document
 4. Last Seen
 
 5. Last seen Hiding 
+
+6. Audio Features added
+
+7. Video Features added
