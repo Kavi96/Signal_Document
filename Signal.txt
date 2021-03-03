@@ -5,3 +5,7 @@ This is Signal document
 2. Profiling page
 
 3. Contact page
+
+4. Last Seen
+
+5. Last seen Hiding 
