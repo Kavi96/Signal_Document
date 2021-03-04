@@ -13,3 +13,5 @@ This is Signal document
 6. Audio Features added
 
 7. Video Features added
+
+8 . Adding the emoji
